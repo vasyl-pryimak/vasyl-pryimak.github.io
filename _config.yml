@@ -1,16 +1,25 @@
-title: "FPGA: Туди і Назад.. Шляху Нема"
+title: "Vasyl Pryimak"
 description: "Software Engineer будує spring reverb на FPGA. Страждання і перемоги."
 author: "Vasyl Pryimak"
 url: "https://vasyl-pryimak.github.io"
 
-theme: minima
+remote_theme: jekyll/minima
 
 minima:
-  skin: dark
+  skin: auto
 
 show_excerpts: true
 
+header_pages:
+  - about.md
+  - blog.md
+  - contact.md
+
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-toc
 
 permalink: /posts/:title/
