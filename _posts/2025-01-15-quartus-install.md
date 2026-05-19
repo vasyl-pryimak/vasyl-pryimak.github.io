@@ -187,4 +187,4 @@ Quartus 20.1 GUI в UTM ARM64 VM → компіляція → .sof
 
 ---
 
-[← Вступ](/posts/intro/) \| [LED Blink →](/posts/led-blink/)
+[← Список компонентів](/posts/components/) \| [LED Blink →](/posts/led-blink/)
