@@ -23,8 +23,8 @@ permalink: /posts/components/
 
 Плата: **EP4CE6 FPGA Development Board** — дешева китайська плата з AliExpress, але робоча.
 
-<a href="/assets/images/fpga_board.png" class="glightbox" data-description="EP4CE6 FPGA Development Board">
-  <img src="/assets/images/fpga_board.png" alt="EP4CE6 FPGA Development Board" style="cursor: zoom-in;">
+<a href="/assets/images/fpga_board.png" class="glightbox" style="display: block;" data-description="EP4CE6 FPGA Development Board">
+  <img src="/assets/images/fpga_board.png" alt="EP4CE6 FPGA Development Board" style="cursor: zoom-in; max-width: 380px;">
 </a>
 
 *Ось вона. Скромно виглядає — але всередині 6272 логічних елементів.*
@@ -85,8 +85,8 @@ permalink: /posts/components/
 
 ## Схема зв'язків
 
-<a href="/assets/images/spring_reverb.svg" class="glightbox" data-description="Схема підключення компонентів">
-  <img src="/assets/images/spring_reverb.svg" alt="Схема підключення компонентів" style="cursor: zoom-in;">
+<a href="/assets/images/spring_reverb.svg" class="glightbox" style="display: block;" data-description="Схема підключення компонентів">
+  <img src="/assets/images/spring_reverb.svg" alt="Схема підключення компонентів" style="cursor: zoom-in; max-width: 380px;">
 </a>
 
 ```

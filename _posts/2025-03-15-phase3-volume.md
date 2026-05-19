@@ -15,14 +15,14 @@ permalink: /posts/phase3-volume/
 
 **ADS1115** — 16-бітний ADC, читає напругу з крутилок по I²C:
 
-<a href="/assets/images/ads1115.png" class="glightbox" data-description="ADS1115 ADC модуль">
-  <img src="/assets/images/ads1115.png" alt="ADS1115 ADC модуль" style="cursor: zoom-in;">
+<a href="/assets/images/ads1115.png" class="glightbox" style="display: block;" data-description="ADS1115 ADC модуль">
+  <img src="/assets/images/ads1115.png" alt="ADS1115 ADC модуль" style="cursor: zoom-in; max-width: 380px;">
 </a>
 
 **Потенціометр 10kΩ** — власне, та сама крутилка:
 
-<a href="/assets/images/potentiometer.png" class="glightbox" data-description="Потенціометр 10kΩ">
-  <img src="/assets/images/potentiometer.png" alt="Потенціометр 10kΩ" style="cursor: zoom-in;">
+<a href="/assets/images/potentiometer.png" class="glightbox" style="display: block;" data-description="Потенціометр 10kΩ">
+  <img src="/assets/images/potentiometer.png" alt="Потенціометр 10kΩ" style="cursor: zoom-in; max-width: 380px;">
 </a>
 
 ---
