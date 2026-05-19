@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Про мене
-permalink: /about/
+title: CV
+permalink: /cv/
 ---
 
 Я — Василь. Senior Software Engineer з 15+ роками досвіду в побудові масштабованих, event-driven і cloud-native систем у сферах healthcare, video conferencing, messaging і фінансів. Спеціалізуюсь на backend-архітектурі — надійній, підтримуваній і оптимізованій під навантаження.
