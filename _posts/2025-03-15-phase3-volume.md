@@ -1,5 +1,6 @@
 ---
 layout: post
+category: fpga
 title: "Фаза 3: ADS1115, Arduino і Найдовший Квест"
 date: 2025-03-15
 permalink: /posts/phase3-volume/

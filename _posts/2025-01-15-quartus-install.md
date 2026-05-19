@@ -1,5 +1,6 @@
 ---
 layout: post
+category: fpga
 title: "Quartus на Mac M4. Епос у чотирьох актах."
 date: 2025-01-15
 permalink: /posts/quartus-install/
