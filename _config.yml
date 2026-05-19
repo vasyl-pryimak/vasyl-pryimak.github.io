@@ -1,5 +1,5 @@
-title: "Vasyl Pryimak"
-description: "Software Engineer будує spring reverb на FPGA. Страждання і перемоги."
+title: "Vasyl Pryimak — Blog"
+description: "Software Engineering, embedded systems та все що між ними."
 author: "Vasyl Pryimak"
 url: "https://vasyl-pryimak.github.io"
 
@@ -11,7 +11,7 @@ minima:
 show_excerpts: true
 
 header_pages:
-  - about.md
+  - cv.md
   - blog.md
   - contact.md
 

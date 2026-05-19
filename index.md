@@ -1,7 +1,8 @@
 ---
 layout: home
-title: Привіт 👋
 ---
+
+# Привіт 👋
 
 Я — Василь. Senior Software Engineer з 15+ роками досвіду в backend (в основному Java, Kotlin) і значним fullstack/frontend досвідом.
 Будував системи для healthcare, video conferencing, messaging, HoReCa і фінансів.
