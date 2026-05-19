@@ -1,0 +1,16 @@
+title: "FPGA Journey"
+description: "Java-розробник будує spring reverb на FPGA. Страждання і перемоги."
+author: "Vasyl Pryimak"
+url: "https://vasyl-pryimak.github.io"
+
+theme: minima
+
+minima:
+  skin: dark
+
+show_excerpts: true
+
+plugins:
+  - jekyll-feed
+
+permalink: /posts/:title/
