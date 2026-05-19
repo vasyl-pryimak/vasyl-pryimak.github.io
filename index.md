@@ -1,15 +1,28 @@
 ---
 layout: home
-title: FPGA Journey
+title: Pryimak Vasyl - FPGA Journey
 ---
 
-Java-розробник з 15 роками досвіду вирішив зібрати spring reverb на FPGA. Це щоденник страждань і перемог.
+## Привіт 👋
+
+Я — Василь. Senior Software Engineer з 15+ роками досвіду в backend (в основному Java, Kotlin) і значним fullstack/frontend досвідом.
+Будував системи для healthcare, video conferencing, messaging, HoReCa і фінансів.
+
+З Arduino і ESP32 грався вже давно — для задоволення, як хоббі. Але серйозний embedded — це інша планета.
+
+Тому взяв **Cyclone IV FPGA** і пірнув із головою. Перший проєкт — модульний синтезатор з цифровим пружинним ревербератором на Verilog.
+ADC, DAC, I²S, I²C, DSP — все руками, все з нуля. Все це з перспективи людини яка звикла до JVM і мікросервісів.
+
+Цей блог — щоденник страждань і перемог.
+
+**[Далі: Quartus на Mac M4. Епос у чотирьох актах. →](/posts/quartus-install/)**
+
+---
 
 **Серія статей:**
 
 | # | Стаття |
 |---|--------|
-| 0 | [Вступ: хто я і навіщо мені це](/posts/intro/) |
 | 1 | [Quartus на Mac M4. Епос у чотирьох актах.](/posts/quartus-install/) |
 | 2 | [LED Blink — Hello World для FPGA](/posts/led-blink/) |
 | 3 | [Фаза 1: Виводимо звук через CS4344](/posts/phase1-cs4344/) |
