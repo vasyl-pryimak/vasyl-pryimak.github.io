@@ -23,6 +23,9 @@ permalink: /posts/components/
 
 Плата: **EP4CE6 FPGA Development Board** — дешева китайська плата з AliExpress, але робоча.
 
+![EP4CE6 FPGA Development Board](/assets/images/fpga_board.png)
+*Ось вона. Скромно виглядає — але всередині 6272 логічних елементів.*
+
 ---
 
 ## DAC — виводимо звук
