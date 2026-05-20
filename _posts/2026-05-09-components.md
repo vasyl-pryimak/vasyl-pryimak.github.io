@@ -2,7 +2,7 @@
 layout: post
 category: fpga
 title: "Початок"
-date: 2025-01-01
+date: 2026-05-09
 toc: true
 permalink: /posts/components/
 ---

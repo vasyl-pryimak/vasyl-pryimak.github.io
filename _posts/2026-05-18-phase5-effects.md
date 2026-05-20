@@ -2,7 +2,7 @@
 layout: post
 category: fpga
 title: "Фаза 5: Чотири крутилки і одна яка не чутно."
-date: 2025-05-01
+date: 2026-05-18
 toc: true
 permalink: /posts/phase5-effects/
 ---

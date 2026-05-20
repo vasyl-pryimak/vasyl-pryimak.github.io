@@ -2,7 +2,7 @@
 layout: post
 category: fpga
 title: "Фаза 4: Spring Reverb DSP. Три тижні щоб почути хвіст."
-date: 2025-04-01
+date: 2026-05-17
 toc: true
 permalink: /posts/phase4-reverb/
 ---
