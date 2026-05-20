@@ -6,7 +6,7 @@ permalink: /blog/
 
 ## FPGA: Туди і Назад.. Шляху Нема
 
-1. [Список компонентів](/posts/components/)
+1. [Початок](/posts/components/)
 2. [Quartus на Mac M4. Епос у чотирьох актах.](/posts/quartus-install/)
 3. [LED Blink — Hello World для FPGA](/posts/led-blink/)
 4. [Фаза 1: Виводимо звук через CS4344](/posts/phase1-cs4344/)
