@@ -14,3 +14,4 @@ permalink: /blog/
 6. [Фаза 3: ADS1115, Arduino і Найдовший Квест](/posts/phase3-volume/)
 7. [Фаза 4: Spring Reverb DSP](/posts/phase4-reverb/)
 8. [Фаза 5: Чотири крутилки і одна яка не чутно](/posts/phase5-effects/)
+9. [Verilator: крутилки в браузері замість перезаливки FPGA](/posts/verilator-sim/)

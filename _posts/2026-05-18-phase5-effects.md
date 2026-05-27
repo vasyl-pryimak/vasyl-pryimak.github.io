@@ -157,4 +157,4 @@ PCM1808 → left_cap
 
 ---
 
-[← Фаза 4: Spring Reverb DSP](/posts/phase4-reverb/)
+[← Фаза 4: Spring Reverb DSP](/posts/phase4-reverb/) | [Verilator: симуляція →](/posts/verilator-sim/)
