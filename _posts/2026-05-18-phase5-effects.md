@@ -9,7 +9,7 @@ permalink: /posts/phase5-effects/
 
 > *"Додав pre-delay. Технічно — правильно. На слух — нічого."*
 
-**Ціль:** розширити Phase 4 — decay через потенціометр, pre-delay, і щось нове на A2.
+**Ціль:** розширити Phase 4 — decay через потенціометр, pre-delay, і щось нове на A3.
 
 ---
 
@@ -128,7 +128,7 @@ signal & 16'hFF00  // залишити тільки старші 8 біт
 ### Код
 
 ```verilog
-wire [3:0] crush_bits = decay_raw[14:11];  // A2 → 0..12 обнулених біт
+wire [3:0] crush_bits = predelay_raw[14:11];  // A3 → 0..12 обнулених біт
 
 wire [15:0] crush_mask =
     (crush_bits ==  0) ? 16'hFFFF :  // чисто
@@ -148,9 +148,9 @@ Bitcrusher стоїть **після** wet/dry mix. Якщо поставити 
 
 ```
 PCM1808 → left_cap
-  → reverb_core (wet_gain=A1, decay_gain=A3)
+  → reverb_core (wet_gain=A1, decay_gain=A2)
   → wet/dry mix
-  → & crush_mask (A2, bitcrusher)
+  → & crush_mask (A3, bitcrusher)
   → × volume (A0)
   → CS4344
 ```
