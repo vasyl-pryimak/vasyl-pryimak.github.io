@@ -15,3 +15,4 @@ permalink: /blog/
 7. [Фаза 4: Spring Reverb DSP](/posts/phase4-reverb/)
 8. [Фаза 5: Чотири крутилки і одна яка не чутно](/posts/phase5-effects/)
 9. [Verilator: крутилки в браузері замість перезаливки FPGA](/posts/verilator-sim/)
+10. [Pitch Shifter на Verilog: два зчитувальних голівки і лінійна інтерполяція](/posts/pitch-shifter/)

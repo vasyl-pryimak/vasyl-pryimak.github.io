@@ -309,4 +309,4 @@ wire signed [15:0] wet_sum = sat17(wet_sum_18[17:1]);
 
 ---
 
-[← Фаза 5: Ефекти](/posts/phase5-effects/)
+[← Фаза 5: Ефекти](/posts/phase5-effects/) | [Pitch Shifter →](/posts/pitch-shifter/)
