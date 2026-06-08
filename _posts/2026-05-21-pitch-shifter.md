@@ -339,4 +339,4 @@ Block RAM: 1 × DEPTH=2048 × 16-bit = **1 M9K** (+ 3 M9K для reverb = 4 M9K 
 
 ---
 
-[← Verilator: симуляція](/posts/verilator-sim/)
+[← Verilator: симуляція](/posts/verilator-sim/) | [Nios II/e →](/posts/nios2-i2c-master/)

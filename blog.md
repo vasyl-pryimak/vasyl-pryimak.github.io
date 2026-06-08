@@ -16,3 +16,4 @@ permalink: /blog/
 8. [Фаза 5: Чотири крутилки і одна яка не чутно](/posts/phase5-effects/)
 9. [Verilator: крутилки в браузері замість перезаливки FPGA](/posts/verilator-sim/)
 10. [Pitch Shifter на Verilog: два зчитувальних голівки і лінійна інтерполяція](/posts/pitch-shifter/)
+11. [Nios II/e — коли Verilog стає занадто складним](/posts/nios2-i2c-master/)
